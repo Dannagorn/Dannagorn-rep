@@ -1,0 +1,6 @@
+pandas
+openpyxl
+prompt_toolkit
+selenium
+pywin32
+webdriver-manager
